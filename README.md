@@ -2,7 +2,7 @@
 LEDLightBoxAlnitak - PC controlled lightbox implmented using the Alnitak (Flip-Flat/Flat-Man) command set found here: https://www.optecinc.com/astronomy/catalog/alnitak/resources/Alnitak_GenericCommandsR4.pdf
 
 ## Who
-* Created By: Jared Wellman - jared@mainsequencesoftware.com
+* Created By: Jared Wellman - jared@mainsequencesoftware.com here https://github.com/jwellman80/ArduinoLightbox
 * Adapted to V4 protocol By: Igor von Nyssen - igor@vonnyssen.com
 
 
